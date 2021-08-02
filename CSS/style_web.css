@@ -1,0 +1,35 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+}
+body{
+	font-family: 'Lato', sans-serif;
+}
+#baitap a{
+	color: white;
+	background-color: black;
+}
+#baitap a:hover{
+	background-color: #47bdec;
+	transition: 900ms linear;
+}
+#trangchu a{
+	color: white;
+	background-color: black
+}
+#trangchu a:hover{
+	background-color: #47bdec;
+	transition: 900ms linear;
+}
+#html {
+	color: white;
+	background-color: black;
+	text-align: center;
+}
+#html:hover{
+	background-color: #47bdec;
+	transition: 900ms linear;
+}
